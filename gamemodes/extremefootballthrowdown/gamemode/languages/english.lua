@@ -9,7 +9,7 @@ You MUST use one of the above when using translate.AddLanguage
 --[[
 RULES FOR TRANSLATORS!!
 * Only translate formally. Do not translate with slang, improper grammar, spelling, etc.
-* Do not translate proper things. For example, do not translate Zombie Survival (the name of the game). Do translate "survive the zombies".
+* Do not translate proper things. For example, do not translate Extreme Football Throwdown (the name of the game). Do translate "throw the football".
   For names of weapons, you would translate only the "Handgun" part of 'Peashooter' Handgun (and the quotes if your language doesn't use ' as quotes)
   For names of classes, you would translate Bloated Zombie to whatever the word for Bloated and Zombie are. But you wouldn't translate Pukepus or Bonemesh.
 * Comment out things that you have not yet translated in your language file.
